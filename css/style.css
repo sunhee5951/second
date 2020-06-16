@@ -59,7 +59,7 @@ header .inner .btnCall {font-size:20px; color:#444; position:absolute; right:-5%
 .back>li {width: 100%; height: calc(100% /3); float: left; background-position: center; background-repeat: no-repeat; background-size: cover; }
 .back>li:nth-of-type(1) {background-image: url(../img/back.jpg); background-position-y: 26%; background-position-x: 50%;}
 .back>li:nth-of-type(2) {background-image: url(../img/back12.jfif);background-position-y: 0%;}
-.back>li:nth-of-type(3) {background-image: url(../img/back9.jpg); background-position-y: 20%;}
+.back>li:nth-of-type(3) {background-image: url(../img/back12.jfif);background-position-y: 0%;}
 
 /* 버튼 모양 */
 #visual .inner #btns {position: absolute; bottom: 17%; left: 46%; z-index: 3;}
